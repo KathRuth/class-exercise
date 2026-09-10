@@ -5,3 +5,5 @@ Something for showcasing how I have been able to successfully complete the pract
 - an unordered list
 - *emphasis*
 - [a link](libraries.indiana.edu)
+- adding an image
+![close up of wood carved puppet hands](WPApuppetry_woman_004.jpg)
