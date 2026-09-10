@@ -6,4 +6,4 @@ Something for showcasing how I have been able to successfully complete the pract
 - *emphasis*
 - [a link](libraries.indiana.edu)
 - adding an image
-![close up of wood carved puppet hands](WPApuppetry_woman_004.jpg)
+![close up of wood carved puppet hands](WPApuppetry_woman_004.JPEG)
